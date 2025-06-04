@@ -6,12 +6,6 @@
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/vfe709D1Y4y)
 
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/woo-dgs-projects/v0-hypernym-benchmark-ui](https://vercel.com/woo-dgs-projects/v0-hypernym-benchmark-ui)**
-
 ## Build your app
 
 Continue building your app on:
